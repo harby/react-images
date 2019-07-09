@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "a11y-focus-store": "^1.0.0",
-    "glam": "^5.0.1",
+    "glam": "git@github.com:harby/glam.git",
     "raf-schd": "^2.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
